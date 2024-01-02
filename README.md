@@ -3,8 +3,8 @@
 This project consists of detecting the emotion in the images and also in videos using a Machine Learning algorithm (SVM).
 # Dataset
 
-I used 2 datasets: the FEED dataset and the CK dataset, both of them contain folders for the 7 emotions. \n
-For the CK dataset : \n
+I used 2 datasets: the FEED dataset and the CK dataset, both of them contain folders for the 7 emotions.
+For the CK dataset :
 0 : Anger
 1 : Disgust
 2 : Fear
@@ -12,9 +12,9 @@ For the CK dataset : \n
 4 : Sadness
 5 : Surprise
 6 : Contempt
-7 : Neutral \n
+7 : Neutral
 
-For the Feed dataset : \n
+For the Feed dataset :
 0 : Neutral
 1 : Anger
 2 : Disgust
